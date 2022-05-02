@@ -2,3 +2,12 @@ _build
 _static
 _templates
 *~
+build/
+
+dist/
+
+simsurvey/__pycache__/
+
+simsurvey/utils/__pycache__/
+
+simsurvey.egg-info/
